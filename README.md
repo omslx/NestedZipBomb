@@ -28,7 +28,3 @@ This project is released under the **MIT License** (or choose a license below). 
 The author **does NOT take responsibility** for any damage or misuse resulting from files or code generated from this repository.  
 By using this code, you agree to do so **only in legal and ethical contexts**, and you hold the author harmless from any claims or liabilities.
 
----
-
-## Contact
-For questions or issues, please open an issue or contact [your-email@example.com].
