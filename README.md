@@ -20,7 +20,7 @@ Clone this repository and run the provided scripts to generate your own nested Z
 ---
 
 ## License
-This project is released under the **MIT License** (or choose a license below). See the [LICENSE](LICENSE) file for details.
+This project is released under the **MIT License**. See the [LICENSE](https://github.com/omslx/storage-Z/blob/main/LICENSE.txt) file for details.
 
 ---
 
